@@ -1,3 +1,8 @@
+# Alien Invasion
+
+This project is a little side project written in Python, that I've done when going through *Python Crash Course* by Eric Matthes.
+
+## How does the game work?
 In Alien Invasion, the player controls a rocket shipt that appears at the bottom center of the screen. 
 The player can move the ship right and the left using the arrow keys and shoot bullets using the spacebar. 
 When the game begins, a fleet of aliens fils the sky and moves across and down the screen. 
